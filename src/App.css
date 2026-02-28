@@ -22,9 +22,13 @@ h1, h2 {
 
 /* button {
   padding: 8px 15px;
+  padding: 8px 15px;
+  padding: 8px 15px;
   border: none;
   cursor: pointer;
   background-color: #38bdf8;
+  background-color: #38bdf8;
+  color: black;
   color: black;
 } */
 button {
